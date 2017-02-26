@@ -1,1 +1,73 @@
-style.css
+
+body{
+	background-image: url("http://wallpapercave.com/wp/ItmVuT6.jpg");
+	background-size: cover;
+	font-size: 20px;
+
+}
+h1{
+	text-align: center;
+
+}
+h2 { 
+ color: yellow;
+ text-align: center;
+  }
+
+.winsLoses{
+	float:right;
+	font-weight: bolder;
+	font-family: sans-serif;
+	margin-right: 50px;
+	margin-top: 20px;
+	padding: 20px;
+	color: white;
+
+}
+
+.character {
+	border-style: solid;
+	border-color: black;
+	background-color: #FFFBDE;
+}
+
+.hero {
+	background-color: #FFF880;
+}
+
+.fighting {
+	background-color: #FF534F;
+}
+
+#picking {
+	
+	width: 550px;
+	height: 250px;
+	margin:  auto;
+	padding: 30px;
+}
+
+.theCenter {
+	margin:  auto;
+	padding: 30px;
+}
+
+#attack {
+	font-family: 'Lumos';
+	font-size: 24px;
+}
+
+#reset {
+	font-family: 'Lumos';
+	font-size: 22px;
+}
+
+#attackPhase {
+	background-color: #99b4c7;
+	width: 450px;
+
+	}
+	.pic{
+		width: 90px;
+		height: 120px;
+	}
