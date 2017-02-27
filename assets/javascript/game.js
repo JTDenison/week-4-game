@@ -112,7 +112,7 @@ $(document).ready(function() {
 
 				haveAttacker = true;
 				$('#attackPhase').html("");
-				$("#mainPhase").html("Click the Attack button Karate Chop!");
+				$("#mainPhase").html("Click the Attack button to Karate Chop!");
 			}
 		});
 	}
